@@ -4,8 +4,30 @@ Welcome to AgenticPay's Documentation!
 **AgenticPay** is a multi-agent LLM negotiation framework for simulating buyer-seller transactions.
 It provides a Gymnasium-like API for building and testing intelligent negotiation agents powered by Large Language Models.
 
-.. image:: https://img.shields.io/badge/arXiv-2602.06008-b31b1b.svg
+| |arXiv| |GitHub|
+
+.. |arXiv| image:: https://img.shields.io/badge/arXiv-2602.06008-b31b1b.svg
    :target: https://arxiv.org/abs/2602.06008
+
+.. |GitHub| image:: https://img.shields.io/badge/GitHub-AgenticPayGym-blue.svg
+   :target: https://github.com/SafeRL-Lab/AgenticPayGym
+
+Framework Overview
+------------------
+
+.. figure:: _static/images/figure_1_framework.png
+   :align: center
+   :width: 100%
+   :alt: AgenticPay Framework Overview
+
+   *Figure 1: AgenticPay Framework Overview*
+
+.. figure:: _static/images/figure_2_tasks.png
+   :align: center
+   :width: 100%
+   :alt: Scenario and Task Categories
+
+   *Figure 2: Scenario and Task Categories*
 
 Key Features
 ------------
@@ -85,10 +107,9 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Examples & API
+   :caption: Examples
 
    examples
-   api
 
 Indices and tables
 ------------------
