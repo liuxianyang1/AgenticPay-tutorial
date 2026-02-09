@@ -9,8 +9,8 @@ It provides a Gymnasium-like API for building and testing intelligent negotiatio
 .. |arXiv| image:: https://img.shields.io/badge/arXiv-2602.06008-b31b1b.svg
    :target: https://arxiv.org/abs/2602.06008
 
-.. |GitHub| image:: https://img.shields.io/badge/GitHub-AgenticPayGym-blue.svg
-   :target: https://github.com/SafeRL-Lab/AgenticPayGym
+.. |GitHub| image:: https://img.shields.io/badge/GitHub-AgenticPay-blue.svg
+   :target: https://github.com/SafeRL-Lab/AgenticPay
 
 Framework Overview
 ------------------
