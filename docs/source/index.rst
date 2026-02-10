@@ -1,6 +1,11 @@
 Welcome to AgenticPay's Documentation!
 =======================================
 
+.. image:: _static/images/logo-agenticpay.png
+   :align: center
+   :width: 280px
+   :alt: AgenticPay Logo
+
 **AgenticPay** is a multi-agent LLM negotiation framework for simulating buyer-seller transactions.
 It provides a Gymnasium-like API for building and testing intelligent negotiation agents powered by Large Language Models.
 
@@ -110,10 +115,3 @@ Contents
    :caption: Examples
 
    examples
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
